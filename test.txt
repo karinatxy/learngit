@@ -1,3 +1,4 @@
 Git is a version control system.
 Git is free software.
 糖糖在测试分支管理
+糖糖创建了一个图片支持的功能
